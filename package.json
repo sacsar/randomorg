@@ -1,0 +1,16 @@
+{
+  "name": "randomorg",
+  "version": "1.0.0",
+  "description": "API for random.org",
+  "main": "random-org.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Csar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "request": "^2.67.0",
+    "underscore": "^1.8.3"
+  }
+}
